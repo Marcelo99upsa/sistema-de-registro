@@ -6,3 +6,8 @@
 - git push: Se utiliza para enviar los cambios realizados en un repositorio local a un repositorio remoto
 - git diff archivo: Muestra los cambios del archivo
 - git restore --source numerodeHash nombreArchivo: Restaura un archivo a la version del hash EJ: git restore --source de142d7 index.html
+- git branch: Muestra las ramas del proyecto
+- git checkout: Sirve para cambiar entre ramas y restaurar archivos del directorio de trabajo
+- git checkout -b nombreRama: Para crear una rama
+- git checkout nombreRama: Para cambiar entre ramas
+- git switch nombreRama: Se utiliza para cambiar entre diferentes ramas de un repositorio
