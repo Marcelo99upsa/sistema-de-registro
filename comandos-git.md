@@ -1,6 +1,8 @@
 - git status: Muestra el estado del directorio
+- git log: Muestra el historial de commits de un repositorio
 - git pull: Realiza dos acciones -> git fetch (descarga los cambios) y git merge (los fusiona con tu código actual)
 - git add: Agregar archivos modificados o nuevos al área de preparación
 - git commit -m "mensaje": Guarda los cambios realizados en un proyecto como una nueva versión, creando un "punto de guardado" en el historial del proyecto.
 - git push: Se utiliza para enviar los cambios realizados en un repositorio local a un repositorio remoto
 - git diff archivo: Muestra los cambios del archivo
+- git restore --source numerodeHash nombreArchivo: Restaura un archivo a la version del hash EJ: git restore --source de142d7 index.html
