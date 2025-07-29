@@ -3,3 +3,4 @@
 - git add: Agregar archivos modificados o nuevos al área de preparación
 - git commit -m "mensaje": Guarda los cambios realizados en un proyecto como una nueva versión, creando un "punto de guardado" en el historial del proyecto.
 - git push: Se utiliza para enviar los cambios realizados en un repositorio local a un repositorio remoto
+- git diff archivo: Muestra los cambios del archivo
