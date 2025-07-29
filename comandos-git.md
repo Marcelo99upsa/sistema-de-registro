@@ -12,5 +12,6 @@
 - git checkout nombreRama: Para cambiar entre ramas
 - git switch nombreRama: Se utiliza para cambiar entre diferentes ramas de un repositorio
 - git push origin nombreDeLaRama: Para hacer push desde una rama
-- git merge nombreDeLaRama: Para unir la rama en la que estas con la nombrada. EJ: git merge desarrollo, desde la rama main
-- git push origin main: Para hacer push desde main despues de hacer merge
+## Pasos para un merge
+1. git merge nombreDeLaRama: Para unir la rama en la que estas con la nombrada. EJ: git merge desarrollo, desde la rama main
+2. git push origin main: Para hacer push desde main despues de hacer merge
