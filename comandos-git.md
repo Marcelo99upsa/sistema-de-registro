@@ -6,3 +6,4 @@
 - git push: Se utiliza para enviar los cambios realizados en un repositorio local a un repositorio remoto
 - git diff archivo: Muestra los cambios del archivo
 - git restore --source numerodeHash nombreArchivo: Restaura un archivo a la version del hash EJ: git restore --source de142d7 index.html
+- git push origin nombreDeLaRama: Para hacer push desde una rama
