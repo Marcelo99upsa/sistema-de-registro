@@ -15,3 +15,9 @@
 ## Pasos para un merge
 1. git merge nombreDeLaRama: Para unir la rama en la que estas con la nombrada. EJ: git merge desarrollo, desde la rama main
 2. git push origin main: Para hacer push desde main despues de hacer merge
+## Creacion de nuevo repositorio
+1. git init: Crea un nuevo repositorio Git vacío en el directorio actual.
+2. Seguir los pasos de Github. 
+    * EJ: git remote add origin https://github.com/Marcelo99upsa/sistema-de-registro-2.git<-Esto es el repositorio vacio en Github
+    * git branch -M main
+    * git push -u origin main
