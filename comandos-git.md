@@ -11,3 +11,4 @@
 - git checkout -b nombreRama: Para crear una rama
 - git checkout nombreRama: Para cambiar entre ramas
 - git switch nombreRama: Se utiliza para cambiar entre diferentes ramas de un repositorio
+- git push origin nombreDeLaRama: Para hacer push desde una rama
