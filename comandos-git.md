@@ -20,4 +20,5 @@
 2. Seguir los pasos de Github. 
     * EJ: git remote add origin https://github.com/Marcelo99upsa/sistema-de-registro-2.git<-Esto es el repositorio vacio en Github
     * git branch -M main
+	* Esto podria necesitarse antes de la siguiente linea de codigo: git pull origin main
     * git push -u origin main
